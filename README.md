@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0016-3sum-closest) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0016-3sum-closest) |
 ## Greedy
 |  |
 | ------- |
@@ -25,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0012-integer-to-roman) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
