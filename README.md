@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0029-divide-two-integers) |
 ## String
 |  |
 | ------- |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
