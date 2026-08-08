@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0044-wildcard-matching) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0044-wildcard-matching) |
 ## Sorting
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0044-wildcard-matching) |
 ## Linked List
 |  |
 | ------- |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0044-wildcard-matching) |
 ## Divide and Conquer
 |  |
 | ------- |
