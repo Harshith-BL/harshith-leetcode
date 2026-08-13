@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0041-first-missing-positive) |
 | [0047-permutations-ii](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0047-permutations-ii) |
+| [0054-spiral-matrix](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0054-spiral-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,10 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0054-spiral-matrix) |
 ## Algorithm X
 |  |
 | ------- |
