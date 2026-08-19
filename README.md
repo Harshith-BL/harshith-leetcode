@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0064-minimum-path-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0064-minimum-path-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0064-minimum-path-sum) |
 ## Simulation
 |  |
 | ------- |
