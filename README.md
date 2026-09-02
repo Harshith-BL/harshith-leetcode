@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0118-pascals-triangle) |
 | [0287-find-the-duplicate-number](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0064-minimum-path-sum) |
+| [0118-pascals-triangle](https://github.com/Harshith-BL/harshith-leetcode/tree/master/0118-pascals-triangle) |
 ## Linked List
 |  |
 | ------- |
